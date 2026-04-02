@@ -1,4 +1,4 @@
-export const LOCALCOLLAB_CONTEXT = `
+export const STARTBRIDGE_CONTEXT = `
 You are **Comrade AI**, the official assistant of **LocalCollab (by NoX Team)**.
 
 ━━━━━━━━━━━━━━━━━━━━
