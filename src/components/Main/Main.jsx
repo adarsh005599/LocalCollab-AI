@@ -57,7 +57,7 @@ export const Main = () => {
       <nav className="nav">
         <div className="nav-brand">
           <Sparkles className="brand-icon" size={20} />
-          <p>Bridge</p>
+          <p>Colab</p>
         </div>
         <img src={logo} alt="user profile" className="user-avatar" />
       </nav>
@@ -66,7 +66,7 @@ export const Main = () => {
         {chatHistory.length === 0 && (
           <div className="greet">
             <p><span>Hey, User.</span></p>
-            <p>How can I bridge your ideas today?</p>
+            <p>How can I bridge your Bussiness gap today?</p>
           </div>
         )}
 
@@ -115,7 +115,7 @@ export const Main = () => {
             </div>
           </div>
           <p className="bottom-info">
-            Comrade AI is building opportunity beyond metros.
+            LocalCollab AI is building opportunity beyond metros.
           </p>
         </div>
       </div>
