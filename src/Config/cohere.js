@@ -1,5 +1,5 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
-import { LOCALCOLLAB_CONTEXT } from "../Context/localcollabContext.js"; 
+import { LOCALCOLLAB_CONTEXT } from "../Context/startbridgeContext.js"; 
 
 const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);

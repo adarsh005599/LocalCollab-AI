@@ -1,69 +1,73 @@
-// src/Data/startbridgeData.js
-
-export const startbridgeData = [
+export const localcollabData = [
   {
     section: "overview",
     content:
-      "StartBridge is a founder-first startup ecosystem built for Indian college students and early-stage founders. We help founders move from ideas to execution by combining community, insights, and smart connections."
+      "LocalCollab is a hyperlocal platform that connects small businesses with beginner influencers for affordable and effective marketing collaborations."
   },
 
   {
-    section: "founders_journey",
+    section: "problem",
     content:
-      "The Founder's Journey features real stories from Indian college founders — including failures, pivots, early wins, and lessons learned while building startups from scratch."
+      "Small businesses struggle with expensive ads and random influencer outreach, while beginner influencers lack paid opportunities and visibility."
   },
 
   {
-    section: "investor_insights",
+    section: "solution",
     content:
-      "Investor Insights shares real perspectives from angel investors and venture capitalists, including quotes, voice notes, and opinions on what actually matters during early-stage investing."
+      "LocalCollab provides a structured platform where businesses and influencers connect directly with transparency, trust, and smart recommendations."
   },
 
   {
-    section: "investor_matching",
+    section: "profiles",
     content:
-      "StartBridge helps founders identify the right investors by analyzing investor thesis, recent deals, portfolio focus, and timing — reducing cold outreach and increasing warm, relevant connections."
+      "Users create verified profiles including location, niche, audience type, and pricing for posts or reels."
   },
 
   {
-    section: "mentorship",
+    section: "ai_matching",
     content:
-      "Founders on StartBridge can learn from mentors who have built startups, worked at accelerators, or invested in early-stage companies, helping founders avoid common mistakes."
+      "An AI-powered matchmaking system recommends the best influencers for businesses based on location, budget, niche, and engagement relevance."
   },
 
   {
-    section: "students",
+    section: "search_filter",
     content:
-      "StartBridge supports students who are curious about startups, helping them learn how the ecosystem works, explore ideas, and prepare for building or joining early-stage ventures."
+      "Businesses can filter influencers by pricing, category, audience type, and location to find the best fit within their budget."
   },
 
   {
-    section: "resources",
+    section: "collaboration",
     content:
-      "We provide practical resources such as startup guides, pitch preparation tips, compliance basics, events, and curated learning material for early-stage founders."
+      "The platform enables direct collaboration requests, acceptance, and tracking between businesses and influencers."
   },
 
   {
-    section: "community",
+    section: "trust_system",
     content:
-      "Our community includes college founders from across India, experienced mentors, operators, and early-stage investors who actively support new builders."
+      "After collaborations, users can rate and review each other, building trust and credibility within the ecosystem."
   },
 
   {
-    section: "mission",
+    section: "business_model",
     content:
-      "Our mission is to empower student founders with clarity, confidence, and connections — so they can build meaningful startups without feeling lost or isolated."
+      "LocalCollab follows a subscription-based model for businesses while allowing influencers to keep 100% of their earnings without commission cuts."
   },
 
   {
-    section: "values",
+    section: "target_users",
     content:
-      "StartBridge values authenticity, learning from failure, founder empathy, and long-term thinking over hype or shortcuts."
+      "Target users include small local businesses, startups, and beginner to mid-level influencers looking for affordable and local collaborations."
   },
 
   {
-    section: "what_we_do_not_do",
+    section: "market",
     content:
-      "StartBridge does not promote get-rich-quick ideas, fake startup hype, or generic advice. We focus on real execution, learning, and founder growth."
+      "The platform targets the growing creator economy and hyperlocal business marketing space, especially in emerging markets like India."
+  },
+
+  {
+    section: "value",
+    content:
+      "LocalCollab delivers affordable marketing for businesses and real earning opportunities for influencers through a transparent and structured system."
   }
 ];
