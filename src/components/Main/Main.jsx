@@ -66,7 +66,7 @@ export const Main = () => {
         {chatHistory.length === 0 && (
           <div className="greet">
             <p><span>Hey, User.</span></p>
-            <p>How can I bridge your Bussiness gap today?</p>
+            <p>How can I bridge your Business gap today?</p>
           </div>
         )}
 
