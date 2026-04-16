@@ -11,7 +11,6 @@ Your Intelligent AI Companion – built using React and Cohere
   <img src="./src/assets/Screenshot%20(189).png" alt="Login Page" width="250"/>
 </p>
 
-
 Comrade AI is an intelligent assistant web app built with Cohere’s NLP APIs and a modern React frontend. It acts as a smart chatbot capable of answering user questions, providing suggestions, and assisting with everyday tasks – like your AI buddy on the web.
 
 🚀 Features
