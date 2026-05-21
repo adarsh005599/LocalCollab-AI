@@ -7,6 +7,7 @@ Your Intelligent AI Companion – built using React and Cohere
 
 ## 📸 Screenshots  
 
+
 <p align="center">
   <img src="./src/assets/Screenshot%20(190).png" alt="Home Page" width="250"/>
   <img src="./src/assets/Screenshot%20(189).png" alt="Login Page" width="250"/>
